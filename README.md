@@ -16,16 +16,19 @@ Italic:
 *The quick brown fox jumps over the lazy dog*
 
 List (No order):
-*Brown Fox
-*Lazy Dog
-*Jumping Motion
+
+* Brown Fox
+* Lazy Dog
+* Jumping Motion
 
 List (With Order):
+
 1. Brown Fox
 2. Jumping Motion
 3. Lazy Dog
 
 Nested List:
+
 1. Brown Fox
   1. Jumps
   2. Stands
