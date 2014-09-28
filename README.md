@@ -32,8 +32,8 @@ Nested List:
 1. Brown Fox
   1. Jumps
   2. Stands
-2.Lazy Dog
-  1. Jumps Too
-  2. Doesnt not jump
+2. Lazy Dog
+  1. Jumps
+  2. Stands
 
-Link: [Brown Foxes Jumping without lazy dogs](http://www.youtube.com/watch?v=c8xJtH6UcQY)
+Link: [Brown foxes jumping - no lazy dogs](http://www.youtube.com/watch?v=c8xJtH6UcQY)
